@@ -1,5 +1,5 @@
 ---
-title: "【AWS】ノンインフラ出身者がインフラの深淵に挑む：今週の地雷と復盤（DB, Network, Security & Reliability編）"
+title: "【AWS】ノンインフラ出身者がインフラの深淵に挑む：今週の地雷と復盤（DB, Network）"
 emoji: "🚀"
 type: "tech"
 topics: ["aws", "infrastructure", "devops", "saa"]
